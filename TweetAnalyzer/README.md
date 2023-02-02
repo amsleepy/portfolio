@@ -8,3 +8,8 @@ main.py will output some general analytics and scoring of tweet success based on
 Run a mapreduce job using Hadoop on the output from main.py using twitteranalyzer.jar. The code used to generate twitteranalyzer.jar is saved as WordCount.java.
 
 Run twittersortedoccurence.py on the output from Hadoop. This will output data on the statistics relevant to the word count map reduce job. 
+
+The goal of this project was to implement Twitter analytics we deemed lacking in the current build of Twitter and/or interesting to look at. It computes a basic score
+for each Tweet in the dataset given based on how many interactions it generates, and a count of each word used in the dataset's Tweets is generated via Hadoop mapreduce
+for efficient data processing. The end result is a list of the most successful (i.e. tweets with the most interactions) tweets in the dataset and a list of the most 
+used words in said tweets (with stop words removed). 
