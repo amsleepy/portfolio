@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block app_content %}
+
+    <h1> Create a new class </h1>
+
+    {% if form %} 
+
+        <div class="row">
+            <div class="col-md-10">
+                {{wtf.quick_form(form, action=url_for('routes.createclass'))}}
+            </div>
+        </div>
+    
+    {% endif %}
+
+{% endblock %}

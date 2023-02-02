@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    padding: 1em;
+    font-family: Tahoma;
+    font-size : 18px;
+}
+
+.nav-container {
+	background:#f6f6f6;
+	font-family: Tahoma;
+	font-size: 12px;
+	height: 32px;
+	text-transform: uppercase;
+}
+
+th, td {
+	padding: 6px; 
+}
+
+.coursetable tr:hover {
+	background-color: crimson;
+}
+
+.coursetable{
+	text-align: left;
+	border: 1px black solid;
+	width: 80%;
+	font-size: 18px;
+}
+
+a:hover {
+	color: gray;
+}
+
+.button {
+	width: 80px;
+	font-size: 13px;
+	margin: 10px 0px 0px 0px;
+	padding: 5px;
+	border: 1px solid gray;
+}
+
+.button:hover {
+	background-color: gray;
+	color:white;
+}
+
+.ebutton {
+	width: 80px;
+	margin: 10px 0px 0px 0px;
+	padding: 5px;
+	border: 1px solid black;
+	background-color: lightgreen;
+}
+
+.textinput{
+	padding: 2px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 18px;
+	width: 400px;
+}
+
+.flash-container{
+	background: crimson;
+	font-family: Tahoma;
+	font-size: 16px;
+	padding: 25px;
+	margin: 10px 0px 10px 0px;
+}
