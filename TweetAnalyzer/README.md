@@ -13,3 +13,5 @@ The goal of this project was to implement Twitter analytics we deemed lacking in
 for each Tweet in the dataset given based on how many interactions it generates, and a count of each word used in the dataset's Tweets is generated via Hadoop mapreduce
 for efficient data processing. The end result is a list of the most successful (i.e. tweets with the most interactions) tweets in the dataset and a list of the most 
 used words in said tweets (with stop words removed). 
+
+This code was developed collaboratively with two other students over the course of a semester for a Big Data class. 
