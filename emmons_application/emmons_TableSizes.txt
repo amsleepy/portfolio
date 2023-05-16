@@ -1,0 +1,5 @@
+YelpDB Table Sizes
+ZipCode: 206
+Business: 11481
+Review: 416479
+Categories: 33619
