@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Spreadsheet>
+  <Cell Name="00">
+    <Text>25</Text>
+    <BGColor>16777215</BGColor>
+  </Cell>
+  <Cell Name="01">
+    <Text>=B1+A1</Text>
+    <BGColor>16777215</BGColor>
+  </Cell>
+  <Cell Name="02">
+    <Text>
+    </Text>
+    <BGColor>16711680</BGColor>
+  </Cell>
+  <Cell Name="03">
+    <Text>
+    </Text>
+    <BGColor>16711680</BGColor>
+  </Cell>
+  <Cell Name="10">
+    <Text>22</Text>
+    <BGColor>16777215</BGColor>
+  </Cell>
+  <Cell Name="11">
+    <Text>=A1</Text>
+    <BGColor>16777215</BGColor>
+  </Cell>
+  <Cell Name="12">
+    <Text>
+    </Text>
+    <BGColor>16711680</BGColor>
+  </Cell>
+  <Cell Name="13">
+    <Text>
+    </Text>
+    <BGColor>16711680</BGColor>
+  </Cell>
+</Spreadsheet>

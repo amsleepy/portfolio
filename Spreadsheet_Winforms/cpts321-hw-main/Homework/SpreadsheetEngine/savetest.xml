@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Spreadsheet>
+  <Cell Name="A0">
+    <Text>=A2-2</Text>
+    <BGColor>16777215</BGColor>
+  </Cell>
+  <Cell Name="A1">
+    <Text>=A3+4+(30/4)</Text>
+    <BGColor>16777215</BGColor>
+  </Cell>
+  <Cell Name="A2">
+    <Text>=A4+4+(30/4)</Text>
+    <BGColor>16777215</BGColor>
+  </Cell>
+  <Cell Name="A3">
+    <Text>=A1+4+(30/4)</Text>
+    <BGColor>16777215</BGColor>
+  </Cell>
+</Spreadsheet>
